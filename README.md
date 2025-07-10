@@ -64,5 +64,3 @@ This project is a Node.js/Express backend for a course selling platform. It prov
 ## Authentication
 - Pass the JWT token in the `token` header for protected routes.
 
-## License
-MIT 
